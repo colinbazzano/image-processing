@@ -2,7 +2,8 @@
 
 What we want to have at the end:
 
-using the CLI, you can run the file passing 2 arguments, the current Folder you want to have, and the new folder you want to create
+using the CLI, you can run the file passing 2 arguments, the current Folder you want to have,
+and the new folder you want to create
 
 
 """
